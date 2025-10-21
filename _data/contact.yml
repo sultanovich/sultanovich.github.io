@@ -1,0 +1,31 @@
+#  The contact options.
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: Linktree
+  icon: 'fa-solid fa-tree'
+  url:  "https://linktr.ee/sultanovich.sh"
+
+
+#- type: Linktree
+#  icon: 'fas fa-link'
+#  url:  "https://linktr.ee/sultanovich.sh"
+
+#- type: github
+#  icon: "fab fa-github"
+
+
+#- type: mastodon
+#  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#  url:  'https://rebel.ar/@sultanovich' 
+
+
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/pabloarielgonzalez/" # Fill with your Linkedin homepage
+
