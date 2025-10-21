@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my Blog"
-date: 2025-09-20 15:00:00 -0300
+date: 2025-09-20 15:01:00 -0300
 categories: [blog, personal]
 tags: [linux, security, open source, devsecops, community, growth]
 image:
