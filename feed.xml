@@ -1,0 +1,132 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://sultanovich.github.io/</id>
+  <title>Sultanovich</title>
+  <subtitle>Blog técnico sobre DevSecOps, seguridad en la nube, Linux y proyectos open source. Experiencias y herramientas que uso para construir infraestructura segura y transparente.
+</subtitle>
+  <updated>2025-10-22T08:54:36-03:00</updated>
+  <author>
+    <name>Sultanovich</name>
+    <uri>https://sultanovich.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://sultanovich.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://sultanovich.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Sultanovich </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>The Strider Who Decided to Be Aragorn</title>
+    <link href="https://sultanovich.github.io/posts/strider-to-aragorn-en/" rel="alternate" type="text/html" title="The Strider Who Decided to Be Aragorn" />
+    <published>2025-09-22T14:01:00-03:00</published>
+  
+    <updated>2025-09-22T14:01:00-03:00</updated>
+  
+    <id>https://sultanovich.github.io/posts/strider-to-aragorn-en/</id>
+    <content type="text/html" src="https://sultanovich.github.io/posts/strider-to-aragorn-en/" />
+    <author>
+      <name>Sultanovich</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="personal" />
+    
+    <category term="reflections" />
+    
+  
+
+  <summary>For many years, I walked under a name and an avatar that defined it.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>El Montaraz que decidió ser Aragorn</title>
+    <link href="https://sultanovich.github.io/posts/strider-to-aragorn/" rel="alternate" type="text/html" title="El Montaraz que decidió ser Aragorn" />
+    <published>2025-09-22T14:00:00-03:00</published>
+  
+    <updated>2025-09-22T14:00:00-03:00</updated>
+  
+    <id>https://sultanovich.github.io/posts/strider-to-aragorn/</id>
+    <content type="text/html" src="https://sultanovich.github.io/posts/strider-to-aragorn/" />
+    <author>
+      <name>Sultanovich</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="personal" />
+    
+    <category term="reflections" />
+    
+  
+
+  <summary>Durante muchos años caminé bajo un nombre y un avatar que lo definia.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcome to my Blog</title>
+    <link href="https://sultanovich.github.io/posts/welcome-to-my-blog-en/" rel="alternate" type="text/html" title="Welcome to my Blog" />
+    <published>2025-09-20T15:01:00-03:00</published>
+  
+    <updated>2025-09-20T15:01:00-03:00</updated>
+  
+    <id>https://sultanovich.github.io/posts/welcome-to-my-blog-en/</id>
+    <content type="text/html" src="https://sultanovich.github.io/posts/welcome-to-my-blog-en/" />
+    <author>
+      <name>Sultanovich</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="personal" />
+    
+  
+
+  <summary>🇪🇸 Leer esta publicación en español                   After many years building on GNU/Linux, participating in free software communities and security projects, I decided to create this space.          Mainly to organize ideas, document solutions, and share what I learn along the way.      Here you’ll find articles about:     Cloud Security (AWS, Kubernetes, FinOps, PCI DSS)   Debian and *NIX in...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Bienvenido a mi Blog</title>
+    <link href="https://sultanovich.github.io/posts/welcome-to-my-blog/" rel="alternate" type="text/html" title="Bienvenido a mi Blog" />
+    <published>2025-09-20T15:00:00-03:00</published>
+  
+    <updated>2025-09-20T15:00:00-03:00</updated>
+  
+    <id>https://sultanovich.github.io/posts/welcome-to-my-blog/</id>
+    <content type="text/html" src="https://sultanovich.github.io/posts/welcome-to-my-blog/" />
+    <author>
+      <name>Sultanovich</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="personal" />
+    
+  
+
+  <summary>Nuevo espacio para compartir mis aprendizajes en seguridad, open source y comunidad.</summary>
+
+  </entry>
+
+</feed>
+
+

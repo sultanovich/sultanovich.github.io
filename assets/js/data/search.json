@@ -1,0 +1,40 @@
+[
+  
+  {
+    "title": "The Strider Who Decided to Be Aragorn",
+    "url": "/posts/strider-to-aragorn-en/",
+    "categories": "blog, personal, reflections",
+    "tags": "identity, growth, community, leadership, open source, journey",
+    "date": "2025-09-22 14:01:00 -0300",
+    "content": "For many years, I walked under a name and an avatar that defined it."
+  },
+  
+  {
+    "title": "El Montaraz que decidió ser Aragorn",
+    "url": "/posts/strider-to-aragorn/",
+    "categories": "blog, personal, reflections",
+    "tags": "identity, growth, community, leadership, open source, journey",
+    "date": "2025-09-22 14:00:00 -0300",
+    "content": "Durante muchos años caminé bajo un nombre y un avatar que lo definia."
+  },
+  
+  {
+    "title": "Welcome to my Blog",
+    "url": "/posts/welcome-to-my-blog-en/",
+    "categories": "blog, personal",
+    "tags": "linux, security, open source, devsecops, community, growth",
+    "date": "2025-09-20 15:01:00 -0300",
+    "content": "   🇪🇸 Leer esta publicación en español                   After many years building on GNU/Linux, participating in free software communities and security projects, I decided to create this space.          Mainly to organize ideas, document solutions, and share what I learn along the way.      Here you’ll find articles about:     Cloud Security (AWS, Kubernetes, FinOps, PCI DSS)   Debian and *NIX in general, with configurations and analysis   Open source tools such as Wazuh, Prowler, Trivy, and n8n   Automation and scripting, mainly in Bash and Python   Events and community, where I participate (DebConf, FLISoL, Nerdearla, Ekoparty, etc.)   Personal notes about changes and decisions in my professional path     Thanks for stopping by! If you’re interested in what I do, you can follow me on Twitter/X, Mastodon, or GitHub.  I hope something you find here helps or inspires you in your own journey. "
+  },
+  
+  {
+    "title": "Bienvenido a mi Blog",
+    "url": "/posts/welcome-to-my-blog/",
+    "categories": "blog, personal",
+    "tags": "linux, security, open source, devsecops, community, growth",
+    "date": "2025-09-20 15:00:00 -0300",
+    "content": "Nuevo espacio para compartir mis aprendizajes en seguridad, open source y comunidad."
+  }
+  
+]
+
