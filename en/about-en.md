@@ -5,6 +5,7 @@ title: "About Me"
 lang: en
 layout: page
 sitemap: true
+permalink: /about-en/
 ---
 
 > 🇪🇸 [Leer esta página en español](/about/)

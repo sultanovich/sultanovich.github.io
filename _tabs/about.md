@@ -9,7 +9,7 @@ lang: es
 <!-- >> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-> 🇬🇧 [Read this page in English](/en/about-en/)
+> 🇬🇧 [Read this page in English](/about-en/)
 
 <div style="display:flex; align-items:center; gap:30px; background-color:rgba(60, 96, 105, 0.33); padding:20px 30px; border-radius:60px; margin-bottom:10px;">
   <img src="/assets/img/about.jpg" alt="about"
