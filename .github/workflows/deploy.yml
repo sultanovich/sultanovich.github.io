@@ -1,37 +1,50 @@
-name: Build and Deploy Jekyll (Chirpy)
+name: Deploy to GitHub Pages Jekyll (Chirpy)
 
 on:
   push:
-    branches: [main]
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # recomended by Chirpy
+          ruby-version: '3.1'
+          bundler-cache: true
 
-      - name: Install dependencies
-        run: |
-          bundle install
+      - name: Install deps
+        run: bundle install --without development
 
-      - name: Build site with Jekyll
-        run: |
-          bundle exec jekyll build
+      - name: Build site
+        run: bundle exec jekyll build -d _site
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
