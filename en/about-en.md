@@ -10,19 +10,17 @@ permalink: /about-en/
 
 > 🇪🇸 [Leer esta página en español](/about/)
 
-<div style="display:flex; align-items:center; gap:30px; background-color:rgba(60, 96, 105, 0.33); padding:20px 30px; border-radius:60px; margin-bottom:10px;">
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; background-color:rgba(60,96,105,.33); padding:16px 20px; border-radius:24px; margin-bottom:10px;">
   <img src="/assets/img/about.jpg" alt="about"
-       style="width:240px; height:auto; border-radius:60px; flex-shrink:0;">
-  <div style="flex:1;">
-    <p style="font-size:1.25rem; line-height:1.8; text-align:justify; margin:0;">
+       style="width:min(240px,40vw); height:auto; border-radius:24px; flex:0 0 auto;">
+  <div style="flex:1 1 260px; min-width:260px;">
+    <p style="font-size:clamp(1rem,2.6vw,1.25rem); line-height:1.8; text-align:justify; margin:0; overflow-wrap:anywhere;">
       <strong>I turn the technical challenges</strong> of information security and Unix systems <strong>into clear and applicable solutions</strong>.
-      <br>
-      <br>
+      <br><br>
       I promote an open source infrastructure that is accessible, reliable, and guided by ethics and community.
     </p>
   </div>
 </div>
-<br>
 
 <p style="font-size:1.15rem; line-height:1.8; text-align:justify;">
   I'm <strong>Pablo González</strong>, known in the community as <strong>Sultanovich</strong>.

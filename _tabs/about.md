@@ -11,19 +11,17 @@ lang: es
 
 > 🇬🇧 [Read this page in English](/about-en/)
 
-<div style="display:flex; align-items:center; gap:30px; background-color:rgba(60, 96, 105, 0.33); padding:20px 30px; border-radius:60px; margin-bottom:10px;">
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; background-color:rgba(60,96,105,.33); padding:16px 20px; border-radius:24px; margin-bottom:10px;">
   <img src="/assets/img/about.jpg" alt="about"
-       style="width:240px; height:auto; border-radius:60px; flex-shrink:0;">
-  <div style="flex:1;">
-    <p style="font-size:1.25rem; line-height:1.8; text-align:justify; margin:0;">
-      <strong>Transformo los desafíos técnicos</strong> de la seguridad informatica y los sistemas Unix <strong>en soluciones comprensibles y aplicables</strong>.
-      <br>
-      <br>
+       style="width:min(240px,40vw); height:auto; border-radius:24px; flex:0 0 auto;">
+  <div style="flex:1 1 260px; min-width:260px;">
+    <p style="font-size:clamp(1rem,2.6vw,1.25rem); line-height:1.8; text-align:justify; margin:0; overflow-wrap:anywhere;">
+      <strong>Transformo los desafíos técnicos</strong> de la seguridad informática y los sistemas Unix <strong>en soluciones comprensibles y aplicables</strong>.
+      <br><br>
       Promuevo una infraestructura open source accesible, confiable y guiada por la ética y la comunidad.
     </p>
   </div>
 </div>
-<br>
 
 
 <p style="font-size:1.15rem; line-height:1.8; text-align:justify;">
