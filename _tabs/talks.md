@@ -16,6 +16,88 @@ lang: es
 </p>
 
 
+## _2026_
+
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
+  <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Colaborar a escala: qué nos enseña Debian y DebConf
+    </div>
+    <!-- <div style="opacity:.8; font-size:.95rem; margin:.15rem 0 .4rem 0;">Nerdearla 2025 — 25 de septiembre de 2025</div> -->
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> FLISoL  · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 25 de Abril · 
+      <strong>Ubicación:</strong> Universidad Nacional de Lanús (UNLa), Buenos Aires
+    </div>
+    <p style="margin:0;">
+      Presentación sobre cómo funciona la <strong>comunidad Debian</strong>, cómo se organizan sus procesos y por qué ha logrado sostenerse y evolucionar durante más de 30 años.
+      También analizamos <strong>DebConf26</strong>, la conferencia anual del proyecto, como un espacio clave de coordinación técnica y comunitaria, donde se toman decisiones, se alinean equipos y se fortalecen los vínculos dentro del proyecto.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://www.linkedin.com/events/7447634337694478336/" target="_blank">Página del evento</a></span>
+      <span>🖥️ <a href="{{ '/assets/talks/flisol_unla-2026-debian.pdf' | relative_url }}" target="_blank">PDF</a></span>
+    </div>
+  </div>
+</div>
+
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
+  <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Panel de Apertura FLISoL: ¿Qué es el software libre? 
+    </div>
+    <!-- <div style="opacity:.8; font-size:.95rem; margin:.15rem 0 .4rem 0;">Nerdearla 2025 — 25 de septiembre de 2025</div> -->
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> FLISoL  · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 25 de Abril · 
+      <strong>Ubicación:</strong> Universidad José C. Paz (UNPAZ), Buenos Aires
+    </div>
+    <p style="margin:0;">
+      Participación como panelista en la apertura de FLISoL UNPAZ 2026, abordando el software libre desde una perspectiva técnica y comunitaria, y destacando su impacto en la formación de comunidades, trayectorias profesionales y proyectos abiertos a gran escala.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://flisol.unpaz.edu.ar/" target="_blank">Página del evento</a></span>
+    </div>
+  </div>
+</div>
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
+  <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Colaborar a escala: qué nos enseña Debian y DebConf
+    </div>
+    <!-- <div style="opacity:.8; font-size:.95rem; margin:.15rem 0 .4rem 0;">Nerdearla 2025 — 25 de septiembre de 2025</div> -->
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> FLISoL  · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 25 de Abril · 
+      <strong>Ubicación:</strong> Universidad José C. Paz (UNPAZ), Buenos Aires
+    </div>
+    <p style="margin:0;">
+      Presentación sobre cómo funciona la <strong>comunidad Debian</strong>, cómo se organizan sus procesos y por qué ha logrado sostenerse y evolucionar durante más de 30 años.
+      También analizamos <strong>DebConf26</strong>, la conferencia anual del proyecto, como un espacio clave de coordinación técnica y comunitaria, donde se toman decisiones, se alinean equipos y se fortalecen los vínculos dentro del proyecto.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://flisol.unpaz.edu.ar/" target="_blank">Página del evento</a></span>
+      <span>🖥️ <a href="{{ '/assets/talks/flisol_unpaz-2026-debian.pdf' | relative_url }}" target="_blank">PDF</a></span>
+    </div>
+  </div>
+</div>
+
+
+
 ## _2025_
 
 
