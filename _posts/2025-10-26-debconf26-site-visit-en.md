@@ -115,5 +115,3 @@ The road to Santa Fe continues,
 and each step brings us closer to welcoming the global Debian community.
 ```
 {: .nolineno }
-
-
