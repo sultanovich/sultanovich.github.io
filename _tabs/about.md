@@ -27,7 +27,7 @@ lang: es
 <p style="font-size:1.15rem; line-height:1.8; text-align:justify;">
   Soy <strong>Pablo González</strong>, <strong>Sultanovich</strong> en la comunidad.
   <br>
-   Actualmente soy <em>Cloud Security &amp; DevSecOps Engineer</em> en Wazuh,
+   Soy <em>Security Architect</em>, actualmente en Wazuh,
     donde combino mi experiencia en seguridad informática con mi pasión por los sistemas Unix y el software libre.
 </p>
 
@@ -35,7 +35,7 @@ lang: es
 <hr style="opacity:0.8; margin:30px 0;">
 
 <p style="text-align:justify; line-height:1.65; margin-bottom:20px;">
-  Trabajo con sistemas Unix y seguridad informática desde <strong>2002</strong>.  
+  Trabajo con sistemas Unix y seguridad informática hace más de 20 años.  
   Comencé administrando servidores y hoy diseño y fortalezco infraestructuras en la nube,  
   priorizando siempre soluciones basadas en <strong>open source</strong>.
 </p>
@@ -53,8 +53,8 @@ lang: es
 </p>
 
 <p style="text-align:justify; line-height:1.65; margin-bottom:20px;">
-  En este blog encontrarás artículos sobre <strong>Cloud Security</strong>, <strong>DevSecOps</strong>,  
-  <strong>cumplimiento normativo</strong> y herramientas libres como <strong>Debian</strong>,  
+  En este blog encontrarás artículos sobre <strong>arquitectura de seguridad</strong>, <strong>plataformas cloud seguras</strong>,  
+  <strong>IAM y automatización</strong>, <strong>cumplimiento (PCI DSS, SOC 2)</strong> y herramientas libres como <strong>Debian</strong>,  
   <strong>Wazuh</strong> y <strong>Kubernetes</strong>.  
   <br>
   También comparto notas sobre mi crecimiento profesional y las decisiones que acompañan ese camino.
