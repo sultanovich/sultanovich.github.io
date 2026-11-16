@@ -31,7 +31,7 @@ lang: es
     <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
       <strong>Evento:</strong> FLISoL  · 
       <strong>Idioma:</strong> Español · 
-      <strong>Fecha:</strong> 25 de Abril · 
+      <strong>Fecha:</strong> 25 de abril · 
       <strong>Ubicación:</strong> Universidad Nacional de Lanús (UNLa), Buenos Aires
     </div>
     <p style="margin:0;">
@@ -58,7 +58,7 @@ lang: es
     <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
       <strong>Evento:</strong> FLISoL  · 
       <strong>Idioma:</strong> Español · 
-      <strong>Fecha:</strong> 25 de Abril · 
+      <strong>Fecha:</strong> 25 de abril · 
       <strong>Ubicación:</strong> Universidad José C. Paz (UNPAZ), Buenos Aires
     </div>
     <p style="margin:0;">
@@ -82,7 +82,7 @@ lang: es
     <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
       <strong>Evento:</strong> FLISoL  · 
       <strong>Idioma:</strong> Español · 
-      <strong>Fecha:</strong> 25 de Abril · 
+      <strong>Fecha:</strong> 25 de abril · 
       <strong>Ubicación:</strong> Universidad José C. Paz (UNPAZ), Buenos Aires
     </div>
     <p style="margin:0;">
@@ -141,7 +141,7 @@ lang: es
     <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
       <strong>Evento:</strong> FLISoL CABA  · 
       <strong>Idioma:</strong> Español · 
-      <strong>Fecha:</strong> 26 de Abril · 
+      <strong>Fecha:</strong> 26 de abril · 
       <strong>Ubicación:</strong> UTN INSPT, Buenos Aires
     </div>
     <p style="margin:0;">
