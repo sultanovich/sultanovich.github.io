@@ -21,6 +21,139 @@ lang: es
 
 <div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
   <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Comunidad Debian Argentina
+    </div>
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> Nerdearla — Community Talks · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 26 de septiembre · 
+      <strong>Ubicación:</strong> Ciudad Cultural Konex, Buenos Aires
+    </div>
+    <p style="margin:0;">
+      Presentación de la comunidad <strong>Debian Argentina</strong> en el espacio de <em>Community Talks</em>: quiénes somos, qué hacemos y cómo sumarse.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://nerdearla.com/argentina/sponsors/" target="_blank">Página del evento</a></span>
+      <span>🎞️ <a href="https://www.youtube.com/live/YtW59QQTVfc?t=13057" target="_blank">Video</a></span>
+    </div>
+  </div>
+</div>
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Closing Ceremony — DebConf26
+    </div>
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> DebConf26 · 
+      <strong>Idioma:</strong> Inglés · 
+      <strong>Fecha:</strong> 25 de julio · 
+      <strong>Ubicación:</strong> Universidad Nacional del Litoral (UNL), Santa Fe
+    </div>
+    <p style="margin:0;">
+      Ceremonia de cierre de <strong>DebConf26</strong>, presentada por el equipo organizador local, del que formé parte.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://debconf26.debconf.org/talks/114-closing-ceremony/" target="_blank">Página del evento</a></span>
+      <span>🎞️ <a href="https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-180-closing-ceremony.av1.webm" target="_blank">Video</a></span>
+    </div>
+  </div>
+</div>
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Debian Argentina (BoF)
+    </div>
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> DebConf26 · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 21 de julio · 
+      <strong>Ubicación:</strong> Universidad Nacional del Litoral (UNL), Santa Fe
+    </div>
+    <p style="margin:0;">
+      Sesión abierta (<em>Birds of a Feather</em>) sobre la comunidad <strong>Debian Argentina</strong>: cómo crecer, cómo generar impacto social y cómo vincularnos con otras comunidades de la región. Co-presentada junto a <strong>Emmanuel Arias</strong>.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://debconf26.debconf.org/talks/94-debian-argentina-bof/" target="_blank">Página del evento</a></span>
+      <span>🎞️ <a href="https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-352-debian-argentina-bof.av1.webm" target="_blank">Video</a></span>
+    </div>
+  </div>
+</div>
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Welcome to DebConf 26!
+    </div>
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> DebConf26 · 
+      <strong>Idioma:</strong> Inglés · 
+      <strong>Fecha:</strong> 20 de julio · 
+      <strong>Ubicación:</strong> Universidad Nacional del Litoral (UNL), Santa Fe
+    </div>
+    <p style="margin:0;">
+      Apertura de la 27.ª edición de <strong>DebConf</strong>, la conferencia anual del Proyecto Debian, presentada por el equipo organizador local, del que formé parte.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://debconf26.debconf.org/talks/113-welcome-to-debconf-26/" target="_blank">Página del evento</a></span>
+      <span>🎞️ <a href="https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/debconf26-122-welcome-to-debconf-26.av1.webm" target="_blank">Video</a></span>
+    </div>
+  </div>
+</div>
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Qué podés auditar hoy en tu sistema GNU/Linux
+    </div>
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> FLISoL CABA · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 30 de mayo · 
+      <strong>Ubicación:</strong> UTN-BA, Sede Medrano, Buenos Aires
+    </div>
+    <p style="margin:0;">
+      ¿Tu sistema Linux es seguro? Un enfoque práctico para empezar a <strong>auditar sistemas GNU/Linux</strong> con herramientas de software libre, aplicable desde el primer día.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://eventol.flisol.org.ar/events/flisol-caba-2026/activity/801/" target="_blank">Página del evento</a></span>
+      <span>🖥️ <a href="{{ '/assets/talks/flisol-caba-2026-auditoria-linux.pdf' | relative_url }}" target="_blank">PDF</a></span>
+    </div>
+  </div>
+</div>
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
+  <div style="margin-left:8px;">
+    <div style="font-weight:700; font-size:1.5em;">
+    Debian y DebConf
+    </div>
+    <div style="opacity:.85; font-size:.86rem; margin:.15rem 0 .4rem 0;">
+      <strong>Evento:</strong> FLISoL CABA · 
+      <strong>Idioma:</strong> Español · 
+      <strong>Fecha:</strong> 30 de mayo · 
+      <strong>Ubicación:</strong> UTN-BA, Sede Medrano, Buenos Aires
+    </div>
+    <p style="margin:0;">
+      Cómo funciona el <strong>Proyecto Debian</strong>, qué rol cumple <strong>DebConf</strong> como espacio de encuentro y toma de decisiones, y cómo cualquier persona puede empezar a participar en Debian y en <strong>Debian Argentina</strong>.
+    </p>
+    <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
+      <span>🔗 <a href="https://eventol.flisol.org.ar/events/flisol-caba-2026/activity/751/" target="_blank">Página del evento</a></span>
+      <span>🖥️ <a href="{{ '/assets/talks/flisol-caba-2026-debian.pdf' | relative_url }}" target="_blank">PDF</a></span>
+    </div>
+  </div>
+</div>
+
+
+<div style="position:relative; padding:14px 16px 14px 18px; border-radius:14px; background:rgba(255,255,255,.04); margin:16px 0;">
+  <div style="position:absolute; left:0; top:10px; bottom:10px; width:5px; background:#78ab46; border-radius:4px;"></div>
   <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
   <!-- <div style="position:absolute; left:0; top:10px; bottom:10px; width:4px; background:#78ab46; border-radius:4px;"></div> -->
   <div style="margin-left:8px;">
@@ -66,6 +199,7 @@ lang: es
     </p>
     <div style="margin-top:1.2rem; display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
       <span>🔗 <a href="https://flisol.unpaz.edu.ar/" target="_blank">Página del evento</a></span>
+      <span>🎞️ <a href="https://youtu.be/XU6r3mP5_EQ" target="_blank">Video (resumen del evento)</a></span>
     </div>
   </div>
 </div>
@@ -190,6 +324,14 @@ lang: es
 </details>
 
 -->
+
+
+# Revisión de propuestas (CFP)
+
+He participado en los comités que evalúan las propuestas de charlas (*Call for Papers*) de estos eventos:
+
+- **[FLISoL CABA](https://caba.flisol.org.ar/)** (Argentina)
+- **[Posadev](https://posadev.org/)** (México)
 
 
 # Solicitudes para dar charlas
